@@ -1,0 +1,13 @@
+{
+  "name": "Test Embed",
+  "short_name": "Test",
+  "icons": [
+    {
+      "src": "https://cdn.qiita.com/assets/favicons/public/production-c620d3e403342b1022967ba5e3db1aaa.ico",
+      "sizes": "192x192",
+      "type": "image/x-icon"
+    }
+  ],
+  "start_url": "/",
+  "display": "standalone"
+}
